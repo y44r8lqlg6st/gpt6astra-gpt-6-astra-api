@@ -1,0 +1,14 @@
+{
+  "repo": "gpt6astra-gpt-6-astra-api",
+  "model": "gpt-6-astra",
+  "display": "GPT-6 Astra",
+  "variant": "llm",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 8,
+    "cached_input": 0.8,
+    "cache_write": 10
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
