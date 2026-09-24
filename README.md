@@ -2,7 +2,7 @@
 
 > **input $8; cached_input $0.8; cache_write $10** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-43b9f9)** · **[Get an API key](https://go.apimart.ai/k-657f84)**
 
 Everything here refers to **gpt-6-astra** — also written **gpt6astra** or **gpt 6 astra**.
 
